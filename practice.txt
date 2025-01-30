@@ -1,0 +1,10 @@
+Model - Holds the logic and content [ingrediants,recipes]
+view -what users see (buttons,and display)
+intent/viewModel - handles users actions and updates the model and view
+Reactive programming with RxJS
+Streams:
+A sequence of events or data over time(button clicks,API responses )
+observable:a wrapper around a stream.it's a like a TV channel
+that broadcasts data.
+observer:something that listens to the observable(you watching tv)
+
